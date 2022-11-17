@@ -1,4 +1,16 @@
 body {
   background-color: aliceblue;
-  min-height: 100fh;
+}
+
+/* Font color*/
+.demo td{
+  color: #416E;
+  
+}
+
+.demo th{
+  font-size: 1.5rem;
+  background-color:#1E90FF;
+  
+
 }
